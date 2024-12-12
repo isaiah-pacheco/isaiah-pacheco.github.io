@@ -2,6 +2,7 @@
 # Isaiah Pacheco's Portfolio
 
 I'm a computer science major at California State Fullerton and I plan to graduate in 2028. 
+
 My GitHub page is http://github.com/isaiah-pacheco
 
 # Favorite CPSC 120L Labs
